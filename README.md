@@ -1,2 +1,2 @@
 # automation-infra
-Check poll scm
+test poll scm
